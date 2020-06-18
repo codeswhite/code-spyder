@@ -8,7 +8,7 @@ setuptools.setup(
     version="1.0.1",
     author="Max G",
     author_email="max3227@gmail.com",
-    description="",
+    description="Create source trees statistics by recursively crawling directories",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
